@@ -19,7 +19,7 @@ var UIModule = (function(){
         
     //get DOM elements
         
-        getDOMElements(){},
+        getDOMElements: function(){},
         
     //Indicators - Test Control
     
